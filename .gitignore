@@ -3,3 +3,7 @@
 
 # Packaging
 .cask
+
+# Eclipse
+.project
+.pydevproject
